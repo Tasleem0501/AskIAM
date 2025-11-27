@@ -1,0 +1,11 @@
+AppID, AppName, AppOwner
+A01, Workday, James.Smith
+A02, Salesforce, Sarah.Jones
+A03, ServiceNow, Michael.Brown
+A04, Jira, Olivia.Taylor
+A05, Concur, Aaron.Nichols
+A06, Slack, Bethany.Clark
+A07, Okta, Diana.Wong
+A08, Tableau, Gavin.Lee
+A09, SAP, Ethan.Reed
+A10, GitHub, Fiona.Gray
