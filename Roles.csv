@@ -1,0 +1,11 @@
+RoleID, RoleName, AppName, Owner
+R01, HR Analyst, Workday, Aaron.Nichols
+R02, Payroll Admin, Workday, Bethany.Clark
+R03, Sales Manager, Salesforce, Sarah.Jones
+R04, Case Resolver, ServiceNow, Michael.Brown
+R05, Project Lead, Jira, Olivia.Taylor
+R06, Expense Approver, Concur, Ethan.Reed
+R07, Collaboration Admin, Slack, Fiona.Gray
+R08, Identity Admin, Okta, Diana.Wong
+R09, Reporting Analyst, Tableau, Gavin.Lee
+R10, Developer, GitHub, Julia.Rogers
